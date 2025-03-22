@@ -166,7 +166,7 @@ button{
 
 /*----------- Section1 시작 -------------------*/
 #home{
-    width:100vw;
+    width:100%;
     height:100vh;
 }
 .MainsectionContainer{
@@ -225,7 +225,7 @@ button{
   }
 /*------------------Section2 시작 ----------------------------------------------*/
 #highlight{
-    width:100vw;
+    width:100%;
     padding-bottom:111px;
 }
 .sectionList{
@@ -375,7 +375,7 @@ button{
   position: absolute;
 }
 .invite-anchor{
-    width:100vw;
+    width:100%;
     height:100vh;
 }
 .inviteBackgroundText{
